@@ -1,2 +1,3 @@
 # DesafioPHP
- Atividades do curso Introdução a PHP
+
+ Atividades do curso Introdução a PHP.
